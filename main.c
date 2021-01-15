@@ -1,6 +1,5 @@
 //Trabalho 1. ED1.
 //Marianna Karenina de Almeida Fl�res
-//N�USP: 10821144
 
 // <<<<< CRIPTO >>>>>>
 
