@@ -1,2 +1,4 @@
-# T1Cripto
-T1deED1(020) Este trabalho é relacionado ao uso de listas encadeadas alocadas dinamicamente (simples ou duplamente encadeadas). A lista encadeada irá ser usada para armazenar uma lista de caracteres que depois devem ser criptografados de diferentes formas
+# cripto
+ This work is related to the use of dynamically allocated chained lists (single or double chained). The linked list will be used to store a list of characters that must then be encrypted in different ways.
+ 
+ED1_T1(020.2)
